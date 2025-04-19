@@ -1,0 +1,42 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  max-width: 650px;
+  margin: 60px auto;
+  padding: 0 15px;
+  color: #111;
+  background-color: #fdfdfd;
+}
+
+a {
+  color: #0046ad;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 18px;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 1em;
+}
+
+main {
+  padding-bottom: 80px;
+}
